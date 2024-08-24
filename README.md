@@ -25,5 +25,5 @@ La distribución de género en roles de liderazgo muestra que las mujeres ocupan
 *Figura 3. Gráfico de Burbujas Agrupadas*
 
 ## Historias en Tableau
-[Link del Dashboard](https://public.tableau.com/javascripts/api/viz_v1.js)
+[Link del Dashboard](https://public.tableau.com/views/EjercicioPrctico_17245243047060/Historia1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
